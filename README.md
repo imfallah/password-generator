@@ -1,9 +1,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
 <a href="https://github.com/jokernets/password-generator">
-<img src="public/Password generator(1).png"></a>
+<img src="https://github.com/jokernets/jokernets/assets/165279911/ca37aa56-0c4d-489b-9c05-3e2b9bacd317"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/jokernets/password-generate">
+  <img src="https://img.shields.io/github/contributors/jokernets/password-generate">
+  <img src="https://img.shields.io/github/issues/jokernets/password-generate">
+  <img src="https://img.shields.io/github/stars/jokernets/password-generate">
+
+</p>
 
 ## `Translation`🔗
 
@@ -30,6 +40,9 @@ Table of contents ✅✔
    * [Mor Example💯](#more-examples-and-showcase-)
      * [Picture Project🔆](#project-image)
      * [Video Project📺](#video-image-of-the-app-)
+
+   * [`CONNECT ME🌐👻`](#connect-me)
+   
 <!--te-->
 
 
@@ -275,9 +288,15 @@ generate_password_button.place(x=70,y=440)
 ### Video image of the APP 📺
 
 
-https://github.com/jokernets/password-generator/assets/165279911/648cbb10-2dd9-4307-9599-5e6ace95d536
+https://github.com/jokernets/password-generate/assets/165279911/b3abca66-9d2f-4b64-a0a6-1dbeb16e5fdf
 
 
 
 
-<a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
+# `CONNECT ME`🌐👻
+
+<a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="180px">
+<a href="mailto:joker.until33@gmail.com"><img align="center" width="60px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a><a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luv-sahu-182356200/" height="40" width="60" /></a>
+<a href="https://instagram.com/mrcode.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luv_k_sahu" height="40" width="50" /></a>
+
+
