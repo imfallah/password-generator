@@ -26,11 +26,11 @@ root.geometry("300x515+{}+{}".format(root.winfo_screenwidth() // 2 -200, root.wi
 
 
 #icon_root
-img=PhotoImage(file="C:/project_python/password generate/password generator/image/icon.png")
+img=PhotoImage(file="C:/project_python/password-generator(github)/main/image/icon.png")
 root.iconphoto(True,img)
 
 #Logo_image
-img=Image.open("C:/project_python/password generate/password generator/image/logo.png")
+img=Image.open("C:/project_python/password-generator(github)/main/image/logo.png")
 img=img.resize((80,70))
 img=ImageTk.PhotoImage(img)
 app_image=Label(root,height=60,padx=10,anchor="nw",image=img,bg=color_1)
