@@ -17,7 +17,7 @@
 
 ## `ترجمة`🔗
 
-- [English](README.md)
+- [English](https://github.com/jokernets/password-generate/tree/main?tab=readme-ov-file)
 - [فارسی](https://github.com/jokernets/password-generate/blob/main/Translation/FA.md)
 
 
