@@ -36,7 +36,7 @@
 #%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-)
 
   
- * ### [`ارتباط با من🌐👻`](#%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D9%86)
+ * [ارتباط با من🌐👻](#%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D9%86)
 <!--te-->
 
 
@@ -48,11 +48,11 @@
 
 # نصب کن !
 ### ماژول را با پیپ نصب کنید:
-```
-pip install Tkinter
-pip insall random
-pip install ....
-
+```python
+pip install tk
+pip insall random2
+pip install Pillow 
+pip install  string
 ```
 
 ### نصب موجود را به روز کنید: pip3 install tkinter --upgrade
