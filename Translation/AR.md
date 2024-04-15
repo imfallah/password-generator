@@ -18,7 +18,7 @@
 ## `ترجمة`🔗
 
 - [English](README.md)
-- [فارسی](Translation/FA.md)
+- [فارسی](https://github.com/jokernets/password-generate/blob/main/Translation/FA.md)
 
 
 
