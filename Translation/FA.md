@@ -1,13 +1,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
 <a href="https://github.com/jokernets/password-generator">
-<img src="traslite/Passwordgenerator(1).png"></a>
+<img src="https://github.com/jokernets/jokernets/assets/165279911/ca37aa56-0c4d-489b-9c05-3e2b9bacd317"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## `ترجمه`
 
 - [English](/docs/README.ar-DZ.md)
+- [العربية](Translation/AR.md)
 
   
 
@@ -15,7 +16,7 @@
 =================
 
 <!--ts-->
-   * [نصب کن](#%D9%86%D8%B5%D8%A8-%DA%A9%D9%86-)
+   *  [نصب کن](#%D9%86%D8%B5%D8%A8-%DA%A9%D9%86-)
 
    * [آنالیز کد📈](#%D8%A2%D9%86%D8%A7%D9%84%DB%8C%D8%B2-%DA%A9%D8%AF-%D9%87%D8%A7-
 )
@@ -26,12 +27,16 @@
      * [پارت 4✔](
 #%D9%BE%D8%A7%D8%B1%D8%AA-4)
   
-   * [نمونه های بیشتر از ویترین 👀💪💯](#%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%88%DB%8C%D8%AA%D8%B1%DB%8C%D9%86-)
-     * [تصویر پروژ🔆]()
-    
-     * [ویدیو پروژ📺](#%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-
-)
+   *  [نمونه های بیشتر از ویترین 👀💪💯](#%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%88%DB%8C%D8%AA%D8%B1%DB%8C%D9%86-)
 
+  * [تصویر پروژ🔆](#%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A7%D8%B2-%D9%BE%D8%B1%D9%88%DA%98%D9%87-)
+
+ 
+  * [ویدیو از پروژه📺](
+#%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-)
+
+  
+ * ### [`ارتباط با من🌐👻`](#%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%85%D9%86)
 <!--te-->
 
 
@@ -85,6 +90,9 @@ root.geometry("300x515+{}+{}".format(root.winfo_screenwidth() // 2 -200, root.wi
 root.mainloop()
 ```
 
+<a href="https://github.com/jokernets/password-generator">
+<img src="https://github.com/jokernets/password-generate/assets/165279911/d4bdbe5b-909a-46f3-b042-44e2fd33d9c1" width=150 heigth=200></a>
+
 
 ## `پارت 2`: 
 این کد یک تصویر لوگو را با استفاده از بسته های Image و ImageTk در یک پنجره گرافیکی به نام "root" نمایش می دهد. برچسب با نماد "PASSWORD GENERATOR" در نقطه مشخص شده در پنجره نمایش داده می شود.
@@ -107,6 +115,11 @@ app_image.place(x=110,y=-3)
 lbl=Label(root,text="PASSWORD GENERATOR",font=("Goudy Old Style ",14),bg=color_1,fg="#7fff00")
 lbl.place(x=30,y=60)
 ```
+<a href="https://github.com/jokernets/password-generator">
+<img src="https://github.com/jokernets/password-generate/assets/165279911/9fc450b5-f855-471f-98d6-44b19001eeb4" width=150 heigth=200></a>
+
+
+
 ## اضافه کردن دستورات تابع ...
 ## `پارت 3`:
 یک تابع برای ایجاد رمز عبور تصادفی در پایتون است. این تابع از حروف کوچک، حروف بزرگ، اعداد و نمادها برای ساخت رمز عبور استفاده می‌کند. کاربر می‌تواند انتخاب کند که کدام دسته از کاراکترها در رمز عبور نهایی گنجانده شوند. طول رمز عبور توسط کاربر تعیین می‌شود و رمز عبور ساخته شده در برنامه نمایش داده می‌شود. همچنین، یک دکمه برای کپی کردن رمز عبور به کلیپ‌بورد وجود دارد
@@ -245,6 +258,11 @@ check_symbols.place(x=86,y=380)
 generate_password_button=Button(root,text="Generate Password",overrelief=SOLID,font=("Arial 10 bold"),bg="white",fg="black",command=password_generator,pady=12,padx=14,width=0)
 generate_password_button.place(x=70,y=440)
 ```
+## تصویر از پروژه 🔆
+<a href="https://github.com/jokernets/password-generator">
+<img src="https://github.com/jokernets/password-generate/assets/165279911/6317cb50-c2cd-4678-96f7-e16a2fe13ce1" width=150 heigth=200></a>
+
+
 ## نمونه های بیشتر از ویترین 👀💪
 
 
@@ -252,14 +270,16 @@ generate_password_button.place(x=70,y=440)
 
 
 
-https://github.com/jokernets/password-generator/assets/165279911/648cbb10-2dd9-4307-9599-5e6ace95d536
+https://github.com/jokernets/password-generate/assets/165279911/b3abca66-9d2f-4b64-a0a6-1dbeb16e5fdf
 
 
 
 
 
-<a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
 
+# `ارتباط با من`🌐👻
 
-
+<a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="180px">
+<a href="mailto:joker.until33@gmail.com"><img align="center" width="60px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a><a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luv-sahu-182356200/" height="40" width="60" /></a>
+<a href="https://instagram.com/mrcode.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luv_k_sahu" height="40" width="50" /></a>
 
