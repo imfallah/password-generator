@@ -7,8 +7,8 @@
 
 ## `ترجمه`
 
-- [English](/docs/README.ar-DZ.md)
-- [العربية](Translation/AR.md)
+- [English](https://github.com/jokernets/password-generate/tree/main?tab=readme-ov-file)
+- [العربية](https://github.com/jokernets/password-generate/blob/main/Translation/AR.md)
 
   
 
