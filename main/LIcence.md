@@ -11,9 +11,7 @@ so that the contents stay in your mind more easily
 Well, in my opinion, start reading this project according to this process 😉❤
 
 
-Instagram:@mrcode.co
 
-Telegram:mr_codeco
 
 GitHub:jokernets
 
